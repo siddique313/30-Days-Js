@@ -67,8 +67,8 @@ console.log(task5);
 
 
 
-const task6 = 65;
-console.log(task6);
+// const task6;
+// console.log(task6);
 
 
 
